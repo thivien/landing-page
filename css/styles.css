@@ -65,7 +65,6 @@ nav ul li {
     background: #3882f6;
     border-radius: 20px;
     padding: 10px 30px;
-    transition: background 0.3s;
 }
 
 header {
@@ -114,8 +113,6 @@ header button:hover {
     background: #f9faf8;
     border: 2px solid #f9faf8;
     color: #3882f6;
-    transition: background 0.3s;
-    transition: border 0.3s;
 }
 
 main {
@@ -186,4 +183,53 @@ main h2 {
     font-size: 18px;
     font-weight: bold;
     text-align: right;
+}
+
+.call-to-action {
+    background: white;
+    height: 300px;
+    padding-top: 100px;
+}
+
+.call-to-action h3 {
+    color: #f9faf8;
+    font-size: 26px;
+    margin: 0;
+}
+
+.call-to-action p {
+    color: #f9faf8;
+    margin: 0;
+}
+
+.call-to-action a {
+    font-weight: bold;
+    margin-left: 100px;
+    padding: 10px 30px;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+    color: #f9faf8;
+    text-decoration: none;
+}
+
+.call-to-action a:hover {
+    background: #f9faf8;
+    border: 2px solid #f9faf8;
+    color: #3882f6;
+}
+
+.call-to-action .container {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    background: #3882f6;
+    border: 1px solid #3882f6;
+    border-radius: 5px;
+    padding: 50px 50px;
 }
