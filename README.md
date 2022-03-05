@@ -3,9 +3,14 @@
 This a part of the TOP curriculum. I will attempt to create landing page from scratch.
 
 #### Landing page v1
-- created basic HTML template
-- made navigation menu
+- created HTML template for landing page
 
 #### Credits
-This project used pictures from [Unsplash.com](https://unsplash.com/)
+Pictures: [Unsplash.com](https://unsplash.com/)
 - [Samuele Errico Piccarini](https://unsplash.com/@samuele_piccarini)
+
+Icons: [Freeicons.io](https://freeicons.io/)
+- [Fasil](https://freeicons.io/profile/722)
+- [BECRIS](https://freeicons.io/profile/3484)
+- [icon-king1](https://freeicons.io/profile/3)
+- [www.wishforge.games](https://freeicons.io/profile/2257)
