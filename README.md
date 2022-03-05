@@ -6,6 +6,7 @@ This a part of the TOP curriculum. I will attempt to create landing page from sc
 - created HTML template for landing page
 - styled navbar
 - styled header
+- styled main section of the landing page
 
 
 #### Credits
