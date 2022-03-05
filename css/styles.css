@@ -189,6 +189,7 @@ main h2 {
     background: white;
     height: 300px;
     padding-top: 100px;
+    margin-bottom: -30px;
 }
 
 .call-to-action h3 {
@@ -232,4 +233,16 @@ main h2 {
     border: 1px solid #3882f6;
     border-radius: 5px;
     padding: 50px 50px;
+}
+
+footer {
+    background: #1f2937;
+    height: 60px;
+    color: #f9faf8;
+}
+
+footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
