@@ -2,8 +2,11 @@
 
 This a part of the TOP curriculum. I will attempt to create landing page from scratch.
 
-#### Landing page v1
+#### Landing page
 - created HTML template for landing page
+- styled navbar
+- styled header
+
 
 #### Credits
 Pictures: [Unsplash.com](https://unsplash.com/)
