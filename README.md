@@ -7,6 +7,7 @@ This a part of the TOP curriculum. I will attempt to create landing page from sc
 - styled navbar
 - styled header
 - styled main section of the landing page
+- styled testimonials section of landing page
 
 
 #### Credits

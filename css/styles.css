@@ -132,7 +132,7 @@ main .container {
 main .content {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 50px;
 }
 
 main img {
@@ -159,4 +159,31 @@ main h2 {
     font-weight: 900;
     color: #1f2937;
     margin: 50px 0;
+}
+
+.testimonials {
+    background: #e5e7eb;
+    height: 400px;
+}
+
+.testimonials .container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonials p {
+    width: 800px;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+
+.testimonials figcaption {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
 }
