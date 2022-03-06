@@ -14,8 +14,12 @@ This landing page is assignment in TOP curriculum. I created this landing page u
 - styled call to action section
 - styled footer
 
+#### Landing page v2
+- got rid of unused classes in HTML markup
+- made the whole landing page responsive
 
-#### Credits
+
+## Credits
 Pictures: [Unsplash.com](https://unsplash.com/)
 - [Samuele Errico Piccarini](https://unsplash.com/@samuele_piccarini)
 
